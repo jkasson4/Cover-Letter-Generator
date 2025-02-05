@@ -1,0 +1,33 @@
+REDACTED is a cutting-edge social platform focused on building in-person connections through shared activities, especially for those struggling with isolation or loneliness. We’re excited to integrate predictive AI for mental health assessment into our platform, and we’re looking for a talented AI/Machine Learning Engineer to join us in making meaningful, positive connections for our users.
+
+Position Overview
+
+We’re seeking an enthusiastic AI/Machine Learning Engineer who is passionate about developing predictive models to improve mental health and user engagement. In this role, you will design and implement a predictive AI system to be seamlessly integrated into our mobile app. Ideal candidates should be pursuing a degree in a related field, with knowledge of machine learning principles and a keen interest in mobile app development. This position includes a 0.025% equity offering as part of our compensation package.
+
+Key Responsibilities
+
+Develop Predictive Models: Design, build, and train machine learning models specifically tailored to mental health assessment and user behavior prediction.
+Data Pipeline Management: Create and manage secure data pipelines, ensuring user data privacy and compliance with data protection regulations.
+Model Integration into Mobile App: Work with mobile app developers to integrate models into the app, optimizing performance and maintaining compatibility with our mobile platform.
+Model Optimization and Maintenance: Continuously update and optimize models to improve accuracy, using feedback and new data to enhance predictions.
+Cross-Functional Collaboration: Collaborate closely with the backend, mobile, and product teams to align AI functionality with app goals and ensure smooth integration.
+Required Qualifications
+
+Education: Currently pursuing or recently completed a degree in Computer Science, Data Science, Machine Learning, or a related field.
+Technical Proficiency:
+Strong foundation in machine learning techniques, including supervised and unsupervised learning, neural networks, and predictive analytics.
+Proficiency in Python and experience with machine learning frameworks like TensorFlow, PyTorch, or scikit-learn.
+Basic understanding of mobile app development, especially for iOS (Swift) and Android (Kotlin/Java) platforms, or experience with Flutter or React Native.
+Familiarity with ONNX or TensorFlow Lite for deploying models on mobile.
+Data Privacy Knowledge: Understanding of data privacy regulations (e.g., HIPAA, GDPR) and secure data handling practices.
+Strong Analytical Skills: Background in statistics and data science to ensure robust predictions.
+Preferred Qualifications
+
+Experience working on healthcare or mental health-related AI projects.
+Knowledge of natural language processing (NLP) if assessment includes text-based analysis.
+Experience with cloud platforms such as AWS, Google Cloud, or Azure for model hosting and API development.
+What We Offer
+
+Equity: 0.025% equity in REDACTED, allowing you to grow with the company.
+Flexible Work Environment: Remote
+Growth Opportunity: Hands-on experience in deploying AI models within a mobile platform and working with an innovative team focused on meaningful connections and mental health support.

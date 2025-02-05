@@ -1,0 +1,86 @@
+EDUCATION 
+
+University of Texas at Dallas									        Graduating May 2025 
+
+    • Bachelor of Science, Computer Science								            GPA 3.93 
+
+    • Relevant Coursework: Intro to Machine Learning, Computer Networks, Database Systems, Software Engineering 
+
+
+
+TECHNICAL SKILLS  
+
+Programming Languages:	C, C++, C#, Java, Python, JSX, JavaScript, SQL, PHP, HTML, Bash, Haskell, Prolog 
+
+Packages: 			Tensorflow, Keras, Scikit-Learn, Pandas, MatPlotLib, React, Node.js, Next.js 
+
+Operating Systems: 		Windows, Ubuntu Linux, Debian Linux, Mac 
+
+
+
+PROFESSIONAL EXPERIENCE 
+
+Outlier AI, Remote										        June 2024 - Current 
+
+AI Data Engineer 
+
+    • Assessed performance of over 10 LLMs by using large datasets to query for hallucinations and knowledge gaps 
+
+    • Improved model performance by writing new training data in over 25 weak mathematical subject areas 
+
+    • Reviewed and corrected training data generated from over 20 trainers to verify dataset integrity 
+
+    • Gave constructive feedback to all reviewed trainers to ensure datasets exceed quality standards 
+
+
+
+ACADEMIC PROJECTS 
+
+RNN Text Classification, Machine Learning						 October 2024 - December 2024 
+
+    • Created RNN classification models using Tensorflow package to classify spam SMS messages with 98% accuracy 
+
+    • Classified job descriptions as fraudulent with 97% accuracy and determined semantics of reviews with 85% accuracy 
+
+    • Standardized input data from CSV files using Pandas, Scikit-Learn, and Tensorflow packages to increase performance 
+
+    • Visualized model performance across epochs using MatPlotLib package to ensure minimal overfitting  
+
+
+Vehicle Dealership Database and Applications, Database Systems		          September 2024 - November 2024 
+
+    • Constructed MySQL database involving 13 tables storing employee, customer, management, and vehicle data 
+
+    • Wrote 4 web applications using HTML and PHP to allow customers and employees to query and edit respective data 
+
+    • Utilized prepared statements in PHP code to prevent SQL injection attempts from malicious users 
+
+    • Hosted web applications using Apache web server and communicated with MySQL database using XAMPP 
+
+
+
+PERSONAL PROJECTS 
+
+Card Trading Web App, Personal Project						            December 2024 - Current 
+
+    • Utilizing React and Next.js to create a web application for users to store trading cards and trade with others 
+
+
+
+ADDITIONAL EXPERIENCE 
+
+Texas State University SLAC, San Marcos, TX						            January 2023 - May 2023 
+
+Math and Computer Science Tutor 
+
+    • Instructed over 50 students on digital logic, object-oriented design, data structures, and algorithms 
+
+    • Taught programming principles in languages including C, C++, Java, Python, and MIPS Assembly
+
+
+
+HONORS AND AWARDS 
+
+Comet Transfer Scholarship								              August 2023 - May 2025 
+
+Texas State University’s Dean’s List							              August 2021 - May 2023 
